@@ -1,0 +1,11 @@
+{
+  "name": "sixlib.github.io",
+  "version": "1.0.0",
+  "repository": "https://github.com/SixLib/sixlib.github.io.git",
+  "author": "sixlib <614044401@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
